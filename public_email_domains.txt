@@ -1,4 +1,5 @@
 accountant.com
+adelphia.net
 aim.com
 aliceadsl.fr
 alive.it
@@ -19,6 +20,7 @@ bigpond.net.au
 bluewin.ch
 blueyonder.co.uk
 bol.com.br
+brighthouse.com
 centurytel.net
 charter.net
 cheerful.com
