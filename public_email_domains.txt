@@ -49,6 +49,7 @@ ec.rr.com
 elmore.rr.com
 elp.rr.com
 email.com
+email.msn.com
 emore.rr.com
 engineer.com
 eufala.rr.com
