@@ -4,3 +4,6 @@ A list of public (personal, not disposable) email domains. I already have a cons
 For an assortment of projects, I need(ed) to flag personal email accounts for exclusion and amendment in order to support B2B marketing activities.
 
 If there is sufficient (read: any) interest, I will add support for external contributions.
+
+# Todos:
+* Add various rr.com domains, or wildcard the same.
