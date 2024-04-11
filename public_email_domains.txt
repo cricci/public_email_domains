@@ -59,6 +59,7 @@ tutanota.com
 tutanota.de
 usa.com
 verizon.net
+windstream.net
 workmail.com
 writeme.com
 yahoo.com
