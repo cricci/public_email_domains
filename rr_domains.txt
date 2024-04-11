@@ -1,5 +1,7 @@
+austin.rr.com
 bak.rr.com
 berkshire.rr.com
+bham.rr.com
 bizec.rr.com
 bizwi.rr.com
 ca.rr.com
@@ -11,6 +13,9 @@ dc.rr.com
 ec.rr.com
 elmore.rr.com
 elp.rr.com
+emore.rr.com
+eufala.rr.com
+eufaula.rr.com
 gt.rr.com
 hawaii.rr.com
 hot.rr.com
@@ -27,9 +32,13 @@ ne.rr.com
 neb.rr.com
 neo.rr.com
 new.rr.com
+nj.rr.com
 nyc.rr.com
 nycap.rr.com
 oh.rr.com
+pa.rr.com
+panhandle.rr.com
+postmaster.rr.com
 rgv.rr.com
 rochester.rr.com
 san.rr.com
