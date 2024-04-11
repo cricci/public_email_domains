@@ -9,7 +9,8 @@ aol.de
 aol.fr
 aol.it
 aol.jp
-aon.atarcor.de
+aon.at
+arcor.de
 asia.com
 att.net
 bellsouth.net
