@@ -3,7 +3,7 @@
 # What is this?
 A list of public (personal, not disposable) email domains. There are several sources for disposable domains, which have satisfied my needs to-date. If you're looking for something like that, Google and github are your friends.
 
-However, for an assortment of projects, I needed to flag personal email accounts for exclusion from campaigns, or amendments/augmentation in order to support B2B marketing activities. Mainly these are free or low-cost services offering mainly personal email addresses.
+However, for an assortment of projects, I needed to flag personal email accounts for exclusion from campaigns, or amendments/augmentation in order to support B2B marketing activities. Mainly these are free or low-cost services offering mostly personal email addresses.
 
 If there is sufficient (read: any) interest, I will add support for external contributions.
 
