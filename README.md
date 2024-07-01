@@ -7,5 +7,4 @@ However, for an assortment of projects, I needed to flag personal email accounts
 
 If there is sufficient (read: any) interest, I will add support for external contributions.
 
-# Todos:
-* Add various rr.com domains, or wildcard the same.
+Provided without warranty.
