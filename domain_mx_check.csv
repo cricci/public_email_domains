@@ -17,7 +17,7 @@ aol.it,True
 aol.jp,True
 aon.at,True
 arcor.de,True
-arnet.com.ar,True
+arnet.com.ar,False
 asia.com,True
 att.net,True
 austin.rr.com,True
@@ -77,8 +77,8 @@ free.fr,True
 freenet.de,True
 frontier.com,True
 frontiernet.net,True
-games.com,True
-globo.com,False
+games.com,False
+globo.com,True
 globomail.com,False
 gmail.com,True
 gmx.at,True
@@ -143,6 +143,8 @@ ma.rr.com,True
 mac.com,True
 mail.com,True
 mail.ru,True
+mailbox.cz,True
+mailbox.org,True
 mailfence.com,True
 maine.rr.com,True
 mass.rr.com,True
@@ -184,11 +186,15 @@ pm.me,True
 pobox.com,True
 post.com,True
 poste.it,True
+posteo.de,True
 postmaster.rr.com,True
 prodigy.net.mx,True
 proton.me,True
 protonmail.ch,True
 protonmail.com,True
+protonmail.de,False
+protonmail.nl,False
+protonmail.org,False
 qq.com,True
 r7.com,True
 rambler.ru,True
@@ -199,11 +205,13 @@ rochester.rr.com,True
 rocketmail.com,True
 rogers.com,True
 rr.com,True
+runbox.com,True
 safe-mail.net,False
 san.rr.com,True
 satx.rr.com,True
 sbcglobal.net,True
 sc.rr.com,True
+seznam.cz,True
 sfr.fr,True
 shaw.ca,True
 si.rr.com,True
@@ -244,7 +252,7 @@ verizon.net,True
 virgilio.it,True
 virgin.net,True
 virginmedia.com,True
-voila.fr,True
+voila.fr,False
 voo.be,True
 wanadoo.fr,True
 web.de,True
@@ -282,7 +290,8 @@ yandex.ua,False
 yeah.net,True
 ygm.com,True
 ymail.com,True
-zipmail.com.br,True
+zipmail.com.br,False
 zoho.com,True
 zohomail.com,True
 zonnet.nl,True
+zoznam.sk,True
