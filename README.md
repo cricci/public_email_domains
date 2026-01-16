@@ -12,3 +12,5 @@ A list of public (free and low-cost) email domains. I use them to scrub B2B camp
 For an assortment of projects, I needed to flag these email addresses for exclusion in campaigns.
 
 Provided without warranty.
+
+See also: [https://github.com/cricci/sms_mms_email_domains](sms_mms_email_domains)
