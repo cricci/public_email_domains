@@ -13,4 +13,4 @@ For an assortment of projects, I needed to flag these email addresses for exclus
 
 Provided without warranty.
 
-See also: [sms_mms_email_domains](https://github.com/cricci/sms_mms_email_domains)
+See also: [sms_mms_email_domains](https://github.com/cricci/sms_mms_email_domains), [me](https://github.com/cricci)
