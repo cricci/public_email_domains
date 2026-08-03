@@ -1,7 +1,7 @@
 [![Licensed under CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 # What is this?
-A list of public (free and low-cost) email domains. I use them to scrub B2B campaigns of non-company addresses (when needed). This doesn't include disposable domains. There are several sources for disposable domains, which have satisfied my needs to-date. If you're looking for something like that, Google and github are your friends. I may incorporate them with time, byproduct my own needs but for now.. they're not there.
+A list of public (free and low-cost) email domains. I use them to scrub B2B campaigns of non-corporate addresses (when needed). This doesn't include disposable domains. There are several sources for disposable domains, which have satisfied my needs to-date. If you're looking for something like that, Google and github are your friends. I may incorporate them with time, byproduct my own needs but for now.. they're not there.
 
 ## What are the files?
 * The *-ALL* file has every domain I've found to-date (i.e. for scrubbing an existing list)
